@@ -1,4 +1,4 @@
-# Assignment 2
+# SCC0251 - Assignment 2: Image Enhancement and Filtering
 
 In this assignment we had to implement different methods in order to enhance and/or filter images using space domain filtering (convolution). 
 Read the instructions for each step in the "dip_t02_image_enchancement_filter.pdf" document. 
